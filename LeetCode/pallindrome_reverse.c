@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <stdbool.h>
+#include<stdio.h>
+#include<stdbool.h>
 
 bool is_palindrome(int num) {
     int reversed = 0, original = num;
